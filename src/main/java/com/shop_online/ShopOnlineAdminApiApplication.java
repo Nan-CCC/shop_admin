@@ -7,7 +7,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 /**
- * @author w
+ * @author
  */
 @SpringBootApplication
 @MapperScan("com.shop_online.mapper")
